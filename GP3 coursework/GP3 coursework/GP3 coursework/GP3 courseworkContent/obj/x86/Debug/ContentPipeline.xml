@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\Bluebell.mp3</Source>
+      <Name>Audio\Bluebell</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\Bluebell.xnb</Output>
+      <Extra>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\Bluebell.wma</Extra>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DoctorWhotheme11.mp3</Source>
+      <Name>Audio\DoctorWhotheme11</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\DoctorWhotheme11.xnb</Output>
+      <Extra>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\DoctorWhotheme11.wma</Extra>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tardis.mp3</Source>
+      <Name>Audio\tardis</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\tardis.xnb</Output>
+      <Extra>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\tardis.wma</Extra>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\engine_2.wav</Source>
+      <Name>Audio\engine_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\engine_2.xnb</Output>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion2.wav</Source>
+      <Name>Audio\explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\explosion2.xnb</Output>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\shot007.wav</Source>
+      <Name>Audio\shot007</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\shot007.xnb</Output>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tardisEdit.wav</Source>
+      <Name>Audio\tardisEdit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\tardisEdit.xnb</Output>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\who10Edit.wav</Source>
+      <Name>Audio\who10Edit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\who10Edit.xnb</Output>
+      <Time>2013-12-14T07:12:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tankshot.wav</Source>
+      <Name>Audio\tankshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\tankshot.xnb</Output>
+      <Time>2013-12-16T06:45:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion.wav</Source>
+      <Name>Audio\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\explosion.xnb</Output>
+      <Time>2013-12-16T06:49:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\birds.wav</Source>
+      <Name>Audio\birds</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\birds.xnb</Output>
+      <Time>2013-12-16T07:10:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DrWho.spritefont</Source>
+      <Name>Fonts\DrWho</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Fonts\DrWho.xnb</Output>
+      <Time>2013-12-14T07:17:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tron tank finished.fbx</Source>
+      <Name>Models\tron tank finished</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\tron tank finished.xnb</Output>
+      <Time>2013-12-14T08:25:56+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\tron tank finished_0.xml</Key>
+        <Value>2013-12-16T10:14:39.3829644+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\T_302barrel.fbx</Source>
+      <Name>Models\T_302barrel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\T_302barrel.xnb</Output>
+      <Time>2013-12-16T01:52:48+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\T_302barrel_0.xml</Key>
+        <Value>2013-12-16T10:14:58.5667178+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\Metal_Texture_PLUS_Metal_Grid_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\T_302tracks.fbx</Source>
+      <Name>Models\T_302tracks</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\T_302tracks.xnb</Output>
+      <Time>2013-12-16T01:52:48+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\T_302tracks_0.xml</Key>
+        <Value>2013-12-16T10:15:01.001448+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\Metal_Texture_PLUS_Metal_Grid_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\T_302turret.fbx</Source>
+      <Name>Models\T_302turret</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\T_302turret.xnb</Output>
+      <Time>2013-12-16T04:07:48+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\T_302turret_0.xml</Key>
+        <Value>2013-12-16T10:15:01.161496+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\FBX\285A2CEA\T_302turret.fbm\Metal_Texture_PLUS_Metal_Grid_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\fence.fbx</Source>
+      <Name>Models\fence</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\fence.xnb</Output>
+      <Time>2013-12-16T07:15:08+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\fence_0.xml</Key>
+        <Value>2013-12-16T10:15:01.8406997+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\FBX\22D22ADD\fence.fbm\wood-texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground.fbx</Source>
+      <Name>Models\ground</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\ground.xnb</Output>
+      <Time>2013-12-16T07:15:08+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ground_0.xml</Key>
+        <Value>2013-12-16T10:15:02.121784+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\FBX\4F702B6B\ground.fbm\fine_stones_on_ground_9250013_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\shell.fbx</Source>
+      <Name>Models\shell</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\shell.xnb</Output>
+      <Time>2013-12-16T06:23:54+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\shell_0.xml</Key>
+        <Value>2013-12-16T10:15:04.1553939+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\target.fbx</Source>
+      <Name>Models\target</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\target.xnb</Output>
+      <Time>2013-12-16T07:33:40+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\target_0.xml</Key>
+        <Value>2013-12-16T10:15:04.1974065+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Metal_Texture_PLUS_Metal_Grid.jpg</Source>
+      <Name>Models\Metal_Texture_PLUS_Metal_Grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\Metal_Texture_PLUS_Metal_Grid.xnb</Output>
+      <Time>2013-12-16T01:46:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tron tank finished.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\tron tank finished_0.xml</Output>
+      <Time>2013-12-14T08:25:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\T_302barrel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\T_302barrel_0.xml</Output>
+      <Time>2013-12-16T01:52:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Metal_Texture_PLUS_Metal_Grid.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Models\Metal_Texture_PLUS_Metal_Grid_0.xnb</Output>
+      <Time>2013-12-16T01:46:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\T_302tracks.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\T_302tracks_0.xml</Output>
+      <Time>2013-12-16T01:52:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\T_302turret.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\T_302turret_0.xml</Output>
+      <Time>2013-12-16T04:07:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\285A2CEA\T_302turret.fbm\Metal_Texture_PLUS_Metal_Grid.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\FBX\285A2CEA\T_302turret.fbm\Metal_Texture_PLUS_Metal_Grid_0.xnb</Output>
+      <Time>2013-12-16T10:15:01.1354882+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fence.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\fence_0.xml</Output>
+      <Time>2013-12-16T07:15:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\22D22ADD\fence.fbm\wood-texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\FBX\22D22ADD\fence.fbm\wood-texture_0.xnb</Output>
+      <Time>2013-12-16T10:15:01.8246949+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ground_0.xml</Output>
+      <Time>2013-12-16T07:15:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\4F702B6B\ground.fbm\fine_stones_on_ground_9250013.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\FBX\4F702B6B\ground.fbm\fine_stones_on_ground_9250013_0.xnb</Output>
+      <Time>2013-12-16T10:15:02.1147819+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\shell.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\shell_0.xml</Output>
+      <Time>2013-12-16T06:23:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\target.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\target_0.xml</Output>
+      <Time>2013-12-16T07:33:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\engineidle.wav</Source>
+      <Name>Audio\engineidle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Audio\engineidle.xnb</Output>
+      <Time>2013-12-16T10:43:08.7190652+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\mainmenu.png</Source>
+      <Name>Textures\mainmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Textures\mainmenu.xnb</Output>
+      <Time>2013-12-16T11:51:49.9726403+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameover.png</Source>
+      <Name>Textures\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Textures\gameover.xnb</Output>
+      <Time>2013-12-16T11:54:58.7882015+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\instructions.png</Source>
+      <Name>Textures\instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\Textures\instructions.xnb</Output>
+      <Time>2013-12-16T11:54:58.783204+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 courseworkContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 courseworkContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\rmcdou16\Desktop\GP3 coursework\GP3 coursework\GP3 coursework\GP3 coursework\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-16T14:31:57.7164426+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
